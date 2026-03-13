@@ -1,5 +1,7 @@
 # My-Hikari-CP
 
+📖 [Read the article: Why Your Database is Slower Than It Should Be and How HikariCP Fixes It](https://medium.com/@adi003/why-your-database-is-slower-than-it-should-be-and-how-hikaricp-fixes-it-9ddc6883c070)
+
 A simple **connection pool** prototype with design ideas similar to [HikariCP](https://github.com/brettwooldridge/HikariCP). It maintains a pool of JDBC connections, hands them out to callers, and takes them back on release.
 
 ## How it works
