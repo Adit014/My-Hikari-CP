@@ -1,0 +1,5 @@
+com/example/myhikaricp/ConnectionProperties.class
+com/example/myhikaricp/ConnectionNotAvailableException.class
+com/example/myhikaricp/MyConnection.class
+com/example/myhikaricp/ConnectionProvider.class
+com/example/myhikaricp/MyConnection$State.class
